@@ -1,0 +1,6 @@
+br\com\nfsb\rest\tests\CasesTestLogin.class
+br\com\nfsb\suite\test\SuiteTest.class
+br\com\nfsb\utils\UserCreate.class
+br\com\nfsb\rest\core\BaseTest.class
+br\com\nfsb\rest\core\Constantes.class
+br\com\nfsb\rest\tests\CasesTestUsers.class
