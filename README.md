@@ -28,8 +28,6 @@ Para ordenação dos casos deteste foi utilizado o FixMethodOrder afim de assegu
 
 ### ⌨️ Casos de teste
 
-Explique que eles verificam esses testes e porquê.
-
 Caso 01 - Consultar email do primeiro usuário gerado na lista
 Dado que execute o endpoint usuarios.get
 Quando recebo a resposta da requisição no status '200'
